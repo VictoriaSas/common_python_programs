@@ -1,0 +1,7 @@
+
+|--my_project
+	|--settings
+	|--mainapp
+	|--adminapp
+	|--authapp
+		|--authapp1
